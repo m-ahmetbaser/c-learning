@@ -1,2 +1,3 @@
 # c-learning
-Some c projects
+
+I am an engineering student , I am interested in programming. because of that I add some c projects.
